@@ -1,0 +1,1 @@
+Hello, this is my first test script for the automation pipeline.

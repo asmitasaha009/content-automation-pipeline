@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# IDE/editor
+.vscode/
+.idea/
+.DS_Store
+
+# Secrets
+.env
+
+# Outputs & large media
+output/
+assets/videos/
+*.mp4
+*.mov
+
+# ffmpeg logs
+*.log
